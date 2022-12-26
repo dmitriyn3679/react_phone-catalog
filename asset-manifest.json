@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5774692d.chunk.css",
+    "main.js": "./static/js/main.12196998.chunk.js",
+    "main.js.map": "./static/js/main.12196998.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.9b8eb8be.chunk.js": "./static/js/2.9b8eb8be.chunk.js",
+    "static/js/2.9b8eb8be.chunk.js.map": "./static/js/2.9b8eb8be.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.5774692d.chunk.css.map": "./static/css/main.5774692d.chunk.css.map",
+    "static/js/2.9b8eb8be.chunk.js.LICENSE.txt": "./static/js/2.9b8eb8be.chunk.js.LICENSE.txt",
+    "static/media/accessories.10ac1ca2.jpg": "./static/media/accessories.10ac1ca2.jpg",
+    "static/media/Category.scss": "./static/media/tablets.dced3085.png",
+    "static/media/Breadcrumbs.scss": "./static/media/home.e110292a.svg",
+    "static/media/arrow-right.4756c064.svg": "./static/media/arrow-right.4756c064.svg",
+    "static/media/Header.scss": "./static/media/favorites.ecdbc397.svg",
+    "static/media/ProductSlider.scss": "./static/media/hover-button.578fabbe.svg",
+    "static/media/Search.scss": "./static/media/search.eb670dd9.svg",
+    "static/media/ToFavoritesButton.scss": "./static/media/favorites-active.d554a185.svg",
+    "static/media/Logo.scss": "./static/media/logo.c9417692.svg",
+    "static/media/CartItem.scss": "./static/media/plus.dea15724.svg",
+    "static/media/slider-iphones.7c74e814.png": "./static/media/slider-iphones.7c74e814.png",
+    "static/media/tablets.a91bb4d9.jpg": "./static/media/tablets.a91bb4d9.jpg",
+    "static/media/tablets2.164b0b7c.jpg": "./static/media/tablets2.164b0b7c.jpg",
+    "static/media/App.scss": "./static/media/top-button.cd0d2be9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.9b8eb8be.chunk.js",
+    "static/css/main.5774692d.chunk.css",
+    "static/js/main.12196998.chunk.js"
+  ]
+}

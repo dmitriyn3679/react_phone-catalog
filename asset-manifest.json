@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.5774692d.chunk.css",
-    "main.js": "./static/js/main.8498b712.chunk.js",
-    "main.js.map": "./static/js/main.8498b712.chunk.js.map",
+    "main.css": "./static/css/main.94fd44bc.chunk.css",
+    "main.js": "./static/js/main.eb26a0e0.chunk.js",
+    "main.js.map": "./static/js/main.eb26a0e0.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.9b8eb8be.chunk.js": "./static/js/2.9b8eb8be.chunk.js",
     "static/js/2.9b8eb8be.chunk.js.map": "./static/js/2.9b8eb8be.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.5774692d.chunk.css.map": "./static/css/main.5774692d.chunk.css.map",
+    "static/css/main.94fd44bc.chunk.css.map": "./static/css/main.94fd44bc.chunk.css.map",
     "static/js/2.9b8eb8be.chunk.js.LICENSE.txt": "./static/js/2.9b8eb8be.chunk.js.LICENSE.txt",
     "static/media/accessories.10ac1ca2.jpg": "./static/media/accessories.10ac1ca2.jpg",
     "static/media/Category.scss": "./static/media/tablets.dced3085.png",
     "static/media/Breadcrumbs.scss": "./static/media/home.e110292a.svg",
     "static/media/arrow-right.4756c064.svg": "./static/media/arrow-right.4756c064.svg",
+    "static/media/Footer.scss": "./static/media/arrow-top.a61ad2d0.svg",
     "static/media/Header.scss": "./static/media/favorites.ecdbc397.svg",
     "static/media/ProductSlider.scss": "./static/media/hover-button.578fabbe.svg",
     "static/media/Search.scss": "./static/media/search.eb670dd9.svg",
@@ -22,13 +23,12 @@
     "static/media/CartItem.scss": "./static/media/plus.dea15724.svg",
     "static/media/slider-iphones.7c74e814.png": "./static/media/slider-iphones.7c74e814.png",
     "static/media/tablets.a91bb4d9.jpg": "./static/media/tablets.a91bb4d9.jpg",
-    "static/media/tablets2.164b0b7c.jpg": "./static/media/tablets2.164b0b7c.jpg",
-    "static/media/App.scss": "./static/media/top-button.cd0d2be9.svg"
+    "static/media/tablets2.164b0b7c.jpg": "./static/media/tablets2.164b0b7c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.9b8eb8be.chunk.js",
-    "static/css/main.5774692d.chunk.css",
-    "static/js/main.8498b712.chunk.js"
+    "static/css/main.94fd44bc.chunk.css",
+    "static/js/main.eb26a0e0.chunk.js"
   ]
 }
